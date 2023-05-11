@@ -1,3 +1,9 @@
 [submodule "xtensor"]
 	path = dependencies/xtensor
 	url = https://github.com/xtensor-stack/xtensor
+[submodule "dependencies/xtl"]
+	path = dependencies/xtl
+	url = https://github.com/xtensor-stack/xtl
+[submodule "dependencies/xsimd"]
+	path = dependencies/xsimd
+	url = https://github.com/xtensor-stack/xsimd
